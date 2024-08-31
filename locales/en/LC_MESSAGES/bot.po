@@ -46,7 +46,7 @@ msgstr ""
 msgid ""
 "Your profile is not active at the moment.\n️"
 "\n"
-"You can choose \"5 days free 🆓\" or \"Join 🏄🏻‍♂️\"."
+"You can choose \"1 day free 🆓\" or \"Buy 🏄🏻‍♂️\"."
 msgstr ""
 
 #: bot/handlers/messages.py:41
@@ -88,7 +88,7 @@ msgid "{title} - {price_ru}₽"
 msgstr ""
 
 #: bot/keyboards/main_menu.py:11
-msgid "Join 🏄🏻‍♂️"
+msgid "Buy 🏄🏻‍♂️"
 msgstr ""
 
 #: bot/keyboards/main_menu.py:14
@@ -108,7 +108,7 @@ msgid "Follow the <a href=\"{link}\">link</a> 🔗"
 msgstr ""
 
 #: bot/keyboards/main_menu.py:23
-msgid "5 days free 🆓"
+msgid "1 day free 🆓"
 msgstr ""
 
 #: bot/keyboards/pay.py:9
